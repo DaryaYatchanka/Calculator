@@ -1,1 +1,1 @@
-Basic Calculetor with menu
+Basic Calculator with menu
