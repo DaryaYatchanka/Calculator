@@ -1,1 +1,1 @@
-Basic Calculator with menu
+Basic Calculator in Java 
